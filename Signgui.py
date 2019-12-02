@@ -2,7 +2,7 @@ from tkinter import *
 from datetime import timedelta, date
 import datetime
 from tkinter import messagebox
-from win10toast import ToastNotifier
+
 
 
 def main():
